@@ -1,16 +1,17 @@
-## Hi there 👋
+## Mahmoud Amin | Data Analyst
 
-<!--
-**Mahmoud761/Mahmoud761** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I transform raw data into meaningful insights and interactive dashboards.
 
-Here are some ideas to get you started:
+🔹 Tools & Technologies:
+Python | Pandas | NumPy | SQL | Power BI | Streamlit | Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 What I Do:
+- Data Cleaning & EDA
+- Data Visualization
+- Dashboard Development
+- Predictive Modeling
+
+🔹 Current Focus:
+Improving ML models & building real-world data projects.
+
+Always learning. Always building.
